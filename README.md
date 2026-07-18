@@ -2,7 +2,7 @@ I recently built a Data Professional Survey Dashboard in Power BI, converting ra
 
 🔹 Efficiency improvements achieved:
 
-⏱ Reduced manual analysis time by ~50%
+⏱ Reduced manual analysis time by ~17%
 
 📊 Automated key KPIs (Survey Count, Average Age, Happiness Scores)
 
